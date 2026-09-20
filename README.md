@@ -12,7 +12,7 @@ I am a student at Yurii Fedkovych Chernivtsi National University (CHNU), activel
 * **Version Control:** Git, GitHub
 * **Organization & Management:** Jira, Trello
 * **Documentation:** Markdown
-*(You can add programming languages you are currently learning here, e.g., C++, Python, JavaScript)*
+*(C++, Python, JavaScript)*
 
 ### 📊 My GitHub Stats
 <div align="center">
